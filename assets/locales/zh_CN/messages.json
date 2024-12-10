@@ -1,0 +1,10 @@
+{
+  "displayName": {
+    "message": "幸运草",
+    "description": "The name of the extension."
+  },
+  "description": {
+    "message": "一个基本的Plasmo扩展。",
+    "description": "The description of the extension."
+  }
+}

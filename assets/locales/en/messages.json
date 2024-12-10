@@ -1,0 +1,10 @@
+{
+  "displayName": {
+    "message": "Clover",
+    "description": "The name of the extension."
+  },
+  "description": {
+    "message": "A basic Plasmo extension.",
+    "description": "The description of the extension."
+  }
+}

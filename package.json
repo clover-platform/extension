@@ -1,8 +1,8 @@
 {
-  "name": "clover-extension",
-  "displayName": "Clover extension",
+  "name": "@clover/extension",
+  "displayName": "__MSG_displayName__",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
+  "description": "__MSG_description__",
   "author": "Plasmo Corp. <foss@plasmo.com>",
   "scripts": {
     "dev": "plasmo dev",
@@ -28,6 +28,7 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ]
+    ],
+    "default_locale": "zh_CN"
   }
 }
