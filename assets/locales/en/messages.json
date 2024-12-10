@@ -6,5 +6,9 @@
   "description": {
     "message": "A basic Plasmo extension.",
     "description": "The description of the extension."
+  },
+  "newTabTitle": {
+    "message": "New Tab",
+    "description": "The title of the new tab."
   }
 }

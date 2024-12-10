@@ -6,5 +6,9 @@
   "description": {
     "message": "一个基本的Plasmo扩展。",
     "description": "The description of the extension."
+  },
+  "newTabTitle": {
+    "message": "新标签页",
+    "description": "The title of the new tab."
   }
 }

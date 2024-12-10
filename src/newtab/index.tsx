@@ -1,6 +1,6 @@
 import "~style.css"
 
-document.title = chrome.i18n.getMessage("displayName");
+document.title = chrome.i18n.getMessage("newTabTitle");
 
 const NewTab = () => {
   return <div>
